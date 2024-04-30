@@ -18,3 +18,4 @@ pip install -r /home/ubuntu/acc-cicd-hands-on/requirements.txt
 
 # run server
 screen -d -m python3 manage.py runserver 0:8000 --settings=djangoProject.settings.prod
+
