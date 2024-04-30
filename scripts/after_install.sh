@@ -13,7 +13,7 @@ cd /home/ubuntu/acc-cicd-hands-on/
 python3 -m venv venv
 source venv/bin/activate
 
-install requirements.txt
+# install requirements.txt
 pip install -r /home/ubuntu/acc-cicd-hands-on/requirements.txt
 
 # run server
